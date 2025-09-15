@@ -12,7 +12,7 @@ O "Passa a Bola" é uma plataforma de engajamento para fãs de futebol que trans
 ## ☁️ Arquitetura Proposta
 A arquitetura escolhida é baseada na plataforma open-source **FIWARE**, que é modular, escalável e projetada para o gerenciamento de dados de contexto em tempo real.
 
-![Arquitetura FIWARE](https://imgur.com/3CIbVFW)
+![Arquitetura FIWARE](https://i.imgur.com/3CIbVFW.png)
 
 **Fluxo de Dados:**
 1.  **Camada IoT:** Dispositivos (sensores) coletam dados brutos.
